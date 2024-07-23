@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-21T22:14:11 IST" name="Suite" finished-at="2024-07-21T22:18:40 IST" duration-ms="268149">
+    <groups>
+    </groups>
+    <test started-at="2024-07-21T22:14:11 IST" name="Test" finished-at="2024-07-21T22:18:40 IST" duration-ms="268149">
+      <class name="Program_s.Package_s.Testcase2">
+        <test-method signature="login()[pri:0, instance:Program_s.Package_s.Testcase2@32502377]" started-at="2024-07-21T22:15:04 IST" name="login" finished-at="2024-07-21T22:16:12 IST" duration-ms="68617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Program_s.Package_s.Testcase2 -->
+      <class name="Program_s.Package_s.Testcase3">
+        <test-method signature="login()[pri:0, instance:Program_s.Package_s.Testcase3@2c1b194a]" started-at="2024-07-21T22:16:17 IST" name="login" finished-at="2024-07-21T22:18:35 IST" duration-ms="137878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Program_s.Package_s.Testcase3 -->
+      <class name="Program_s.Package_s.Testcase1">
+        <test-method signature="login()[pri:0, instance:Program_s.Package_s.Testcase1@37d4349f]" started-at="2024-07-21T22:14:12 IST" name="login" finished-at="2024-07-21T22:15:03 IST" duration-ms="50787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Program_s.Package_s.Testcase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
